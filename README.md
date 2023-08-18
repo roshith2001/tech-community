@@ -1,7 +1,9 @@
 # Tech Community
 ## What to implement?
 ### Mission
-To implement a peer to peer learning and practical first learning systems among members. Thus enabling memebers to know latest technologies and industry approaches. Also doing socially responsible projects which results in learning as well as developing socially useful products or services.
+> Our mission is to cultivate a vibrant learning ecosystem, where members collaborate in a dynamic exchange of knowledge. Through hands-on engagement with emerging 
+  technologies and industry practices, we enable our community to stay ahead. Guided by our commitment to social responsibility, we channel our learning into purposeful 
+  projects that drive positive change, crafting valuable solutions that resonate within society.
 
 ### How to implement?
 - **Learning Groups**: Here members of the community are divided as per thier interested fields. Every field have a mentor who help the group in learning generating ideas and helping to implement it.
@@ -18,7 +20,7 @@ To implement a peer to peer learning and practical first learning systems among 
 - Be a platform for memebers to expand their network and connect with peoples from thier desired fields.
 
 ### By members? 
-- Polish themselves with present and future technolgies.
+- Polish oneself with present and future technolgies.
 - Get introduced in the peer-to-peer and self learning systems.
 - Find, Prepare and Land on dream job.
 - Create more connections and expand individual network.
